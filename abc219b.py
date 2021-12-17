@@ -1,3 +1,5 @@
+# サイシードプログラミングコンテスト2021（AtCoder Beginner Contest 219）
+# B - Maritozzo
 dic_s = {}
 for i in range(3):
     s = input()
