@@ -1,3 +1,5 @@
+# AtCoder Beginner Contest 214
+# B - How many?
 s, t = map(int, input().split())
 ans = 0
 for a in range(s + 1):

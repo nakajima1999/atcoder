@@ -1,3 +1,5 @@
+# AtCoder Beginner Contest 216
+# B - Same Name
 n = int(input())
 set_names = set()
 for i in range(n):
