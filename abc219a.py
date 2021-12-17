@@ -1,3 +1,5 @@
+# サイシードプログラミングコンテスト2021（AtCoder Beginner Contest 219）
+#  A - AtCoder Quiz 2
 x = int(input())
 if x < 40:
     print(40 - x)
