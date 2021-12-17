@@ -1,3 +1,5 @@
+# AtCoder Beginner Contest 213
+# B - Booby Prize
 import numpy as np
 n = int(input())
 a = np.array(list(map(int, input().split())))
