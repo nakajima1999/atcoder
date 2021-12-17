@@ -1,3 +1,5 @@
+# AtCoder Beginner Contest 212
+# A - Alloy
 a, b = map(int, input().split())
 if 0 < a and b == 0:
     ans = 'Gold'
