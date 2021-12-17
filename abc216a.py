@@ -1,3 +1,5 @@
+# AtCoder Beginner Contest 216
+# A - Signed Difficulty
 s = input()
 x = s.split('.')[0]
 y = s.split('.')[1]
