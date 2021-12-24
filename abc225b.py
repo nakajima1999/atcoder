@@ -1,3 +1,5 @@
+# UNICORNプログラミングコンテスト2021(AtCoder Beginner Contest 225)
+# B - Star or Not
 n = int(input())
 ans = 'Yes'
 node = set()

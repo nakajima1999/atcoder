@@ -1,3 +1,5 @@
+# AtCoder Beginner Contest 224
+# B - Mongeness
 h, w = map(int, input().split())
 arr = []
 for i in range(h):
