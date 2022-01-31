@@ -1,5 +1,5 @@
 # アルゴリズムと数学 演習問題集
-# 015 - Greatest Common Divisor
+# 016 - Greatest Common Divisor of N Integers
 import math
 from functools import reduce
 n = int(input())
