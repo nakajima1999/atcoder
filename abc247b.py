@@ -1,3 +1,5 @@
+# AtCoder Beginner Contest 247
+# B - Unique Nicknames
 import collections
 n = int(input())
 a = set()
